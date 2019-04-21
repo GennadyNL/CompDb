@@ -13,6 +13,11 @@ Manual and automated test cases for a web-application "Computer database"
 
 4- When the assessment is completed, please push the file containing the manual testcases and the automation project to github and provide us a link to the repository.
 
+# Internet Explorer usage
+Follow these instructions: http://www.michael-whelan.net/selenium-webdriver-and-ie11/ in case of the following error: OpenQA.Selenium.NoSuchWindowException : Unable to get browser
+- All security zones should be set to the same Protected Mode setting
+- Specific registry entries must be created
+
 # Solution description
 Test cases are automated using Selenium, Java, TestNG, log4j, Maven
 
