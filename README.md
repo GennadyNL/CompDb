@@ -1,5 +1,5 @@
 # Goal
-Manual and automated test cases for the web-application "Computer database" based on the bundled "Computer-Database-Test-Cases.xlsx" document
+Manual and automated test cases for the web-application "Computer database".
 
 # Requirements
 1 - Please access the following sample aplication - http://computer-database.herokuapp.com/computers
