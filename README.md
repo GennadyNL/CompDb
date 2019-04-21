@@ -1,8 +1,5 @@
-# CompDb Test Cases
-Computer-Database-Test-Cases.xlsx
-
 # Goal
-Manual and automated test cases for a web-application "Computer database"
+Manual and automated test cases for a web-application "Computer database" based on the bundled "Computer-Database-Test-Cases.xlsx" document
 
 # Requirements
 1- Please access the following sample aplication - http://computer-database.herokuapp.com/computers
